@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214.747" height="214.746" viewBox="0 0 214.747 214.746">
+  <g id="Grupo_8" data-name="Grupo 8" transform="translate(3841 9654)">
+    <path id="Trazado_10" data-name="Trazado 10" d="M83.3,10.7,10.325,83.675a34.4,34.4,0,0,0,0,48.649L83.3,205.3a34.4,34.4,0,0,0,48.649,0l72.973-72.974a34.4,34.4,0,0,0,0-48.649L131.947,10.7A34.4,34.4,0,0,0,83.3,10.7Z" transform="translate(-3841.249 -9654.627)" fill="#cfe7c3"/>
+    <g id="Grupo_6" data-name="Grupo 6" transform="translate(183 -15)">
+      <g id="Grupo_5" data-name="Grupo 5" transform="translate(-3944.309 -9559.313)">
+        <path id="Trazado_8" data-name="Trazado 8" d="M33.555,54.414H22.144v1.68H33.555Z" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Trazado_9" data-name="Trazado 9" d="M50.8,43.417V25.267a22.283,22.283,0,0,0-4.59-13.588A22.95,22.95,0,0,0,30.144,2.694V.313h-4.59V2.694A22.931,22.931,0,0,0,9.489,11.679,22.284,22.284,0,0,0,4.9,25.267v18.15H.309v4.539h55.08V43.417Z" fill="#fff" stroke="#000" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="Grupo_7" data-name="Grupo 7">
+      <path id="Trazado_14" data-name="Trazado 14" d="M121,104a13,13,0,1,0-13-13A13,13,0,0,0,121,104Z" transform="translate(-3841.249 -9654.373)" fill="red"/>
+      <path id="Trazado_15" data-name="Trazado 15" d="M117.71,88.828v-2.5a17.422,17.422,0,0,0,3.33-1.89h2.322V97h-2.718V87.226A13.724,13.724,0,0,1,117.71,88.828Z" transform="translate(-3841.249 -9654.373)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
